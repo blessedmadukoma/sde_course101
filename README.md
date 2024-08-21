@@ -13,3 +13,5 @@
 A self-paced course (**[sign up here](https://www.startdataengineering.com/email-course/)**), you will receive an email every 3 days. Signing up will make you eligible for direct feedback from me! You will learn the following:
 
 ### [Lesson 1: What do Data Engineers Do?](./01-what-do-data-engineers-do/notes.md)
+### [Lesson 2: Skipped]()
+### [Lesson 3: Python essentials for data engineers](./03-python-for-data-engineers/notes.md)

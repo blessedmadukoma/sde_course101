@@ -1,0 +1,1 @@
+# 03. [Python essentials for Data Engineers](https://www.startdataengineering.com/post/python-for-de)
