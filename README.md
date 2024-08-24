@@ -15,3 +15,4 @@ A self-paced course (**[sign up here](https://www.startdataengineering.com/email
 ### [Lesson 1: What do Data Engineers Do?](./01-what-do-data-engineers-do/notes.md)
 ### [Lesson 2: Skipped]()
 ### [Lesson 3: Python essentials for data engineers](./03-python-for-data-engineers/notes.md)
+### [Lesson 4: Data Engineering best practices](./03-python-for-data-engineers/notes.md)
